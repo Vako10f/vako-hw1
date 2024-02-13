@@ -1,5 +1,7 @@
-age=8
-print(age+2)
+x=22
+y=15
+print(22+15)
 
-age=24
-print(age-13)
+x=44
+y=21
+print(x*y)
