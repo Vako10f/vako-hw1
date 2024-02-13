@@ -1,4 +1,4 @@
-option = ("kilometer to mile")
+
 running = True
 
 while running:

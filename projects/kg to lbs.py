@@ -1,4 +1,4 @@
-option = ("kilogramm to lbs")
+
 running = True
 
 while running:
