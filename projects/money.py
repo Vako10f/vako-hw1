@@ -5,9 +5,6 @@ print("lari to euro")
 print("lari to dollar")
 print("dollar to lari")
 
-dollar=2.66
-lari=1
-euro=2.87
 
 
 print("select operation")
