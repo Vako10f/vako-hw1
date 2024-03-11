@@ -1,5 +1,5 @@
 #1
-for i in range(1,51,5):
+for i in range(1,56,5):
     print(i-1)
 #2
 for i in range (2,21,2):
