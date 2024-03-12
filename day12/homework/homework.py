@@ -5,7 +5,15 @@ if balance >= 2500:
 else:
     print("you need more money to buy iphone13")
 #2
-
+password_input=input("enter your password")
+i=1
+while password_input != "vakochad":
+   print("it's incorrect,i said that",i,"times already")
+   password_input=input("enter your password")
+   i+=1
+   if i == 5:
+      print("sistem blocked")
+      break
 #3
 min_value = int(input("შეიყვანეთ მინიმალური მნიშვნელობა: "))
 max_value = int(input("შეიყვანეთ მაქსიმალური მნიშვნელობა: "))
@@ -74,7 +82,7 @@ else:
             print("ეს რიცხვი არის სამის ჯერადი.")
             break    
 #8
-birth=int("enter your birthday time") 
+birth=int(input("enter your birthday time"))
 if birth %4 == 0:
   print("ნაკიანი წელია") 
 else:
