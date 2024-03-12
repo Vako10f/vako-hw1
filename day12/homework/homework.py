@@ -7,7 +7,7 @@ else:
 #2
 password_input=input("enter your password")
 i=1
-while password_input != "vakochad":
+while password_input != "novatori trash":
    print("it's incorrect,i said that",i,"times already")
    password_input=input("enter your password")
    i+=1
