@@ -26,6 +26,6 @@ elif choice == "3":
 elif choice == "4":
  print(number,"*",0.34,"=",number*0.34)
 elif choice == "5":
- print(number,"*",2.66,"=",number*2.66)
-elif choice == "6":
  print(number,"*", 0.38,"=",number* 0.38)
+elif choice == "6":
+ print(number,"*",2.66,"=",number*2.66)
