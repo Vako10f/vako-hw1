@@ -1,9 +1,11 @@
 #1
-balance=int(input("enter your balance"))
-if balance >= 2500:
-    print("you can buy iphone13")
+budget = int(input("What is your budget: "))
+cost = int(input("Please enter cost: "))
+
+if budget >= cost:
+    print("You have enough money")
 else:
-    print("you need more money to buy iphone13")
+    print("You dont have enough money")
 #2
 password_input=input("enter your password")
 i=1
