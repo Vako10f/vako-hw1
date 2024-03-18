@@ -47,7 +47,7 @@ elif day_number == 7:
     print("sunday")
 else:
     print("its incorrect number")
-#7
+#6
 number = int(input("enter number "))
 
 if number == 0:
