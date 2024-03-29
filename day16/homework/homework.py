@@ -10,10 +10,16 @@ numbers=["1","2","3","4","5","6","7","8","9","10"]
 print(numbers[0])
 print(numbers[9])
 #3
-numbers2=["10","11","12","13","14","15","16","17","18","19","20"]
-#არვიცი როგორ გავაკეთო ამის გარეშე
-if numbers2 % 2 == 0:
-    print("1")
+numbers = [10,11,12,13,14,15,16,17,18,19,20]
+
+numbers[0] = 1
+numbers[2] = 1
+numbers[4] = 1
+numbers[6] = 1
+numbers[8] = 1
+numbers[10] = 1
+
+print(numbers)
 #4
 name=input("enter your name")
 surname=input("enter your surname")
