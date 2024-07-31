@@ -18,11 +18,11 @@ body{
     width: 300px;
     height: 200px;
     border-radius: 15px;
-    transition: transform 0.5s ease; /*-*/
+    transition: transform 0.5s ease; 
     
 }
 .divv:hover{
-    transform: scale(1.06); /*-*/
+    transform: scale(1.06);
 }
 .text1{
     width: 100%;
